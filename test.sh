@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 'test wowasdfaddwdadsf!11'
+echo 'test asdfasdfasd wowasdfaddwdadsf!11'
