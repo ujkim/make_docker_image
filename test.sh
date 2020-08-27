@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 'test wowasdfad'
+echo 'test wowasdfaddwdadsf'
