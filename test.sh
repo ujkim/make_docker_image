@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 'test wow'
+echo 'test wowasdfad'
